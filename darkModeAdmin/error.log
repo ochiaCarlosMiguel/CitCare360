@@ -1,0 +1,12 @@
+[03-May-2025 06:55:08 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Project\DarkModeAdmin\manageUsers.php on line 27
+[03-May-2025 06:55:08 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Project\DarkModeAdmin\manageUsers.php on line 28
+[03-May-2025 06:55:08 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\Project\DarkModeAdmin\manageUsers.php on line 961
+[03-May-2025 06:55:10 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Project\DarkModeAdmin\manageUsers.php on line 27
+[03-May-2025 06:55:10 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Project\DarkModeAdmin\manageUsers.php on line 28
+[03-May-2025 06:55:10 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\Project\DarkModeAdmin\manageUsers.php on line 961
+[03-May-2025 06:55:11 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Project\DarkModeAdmin\manageUsers.php on line 27
+[03-May-2025 06:55:11 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Project\DarkModeAdmin\manageUsers.php on line 28
+[03-May-2025 06:55:11 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\Project\DarkModeAdmin\manageUsers.php on line 961
+[03-May-2025 06:55:11 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Project\DarkModeAdmin\manageUsers.php on line 27
+[03-May-2025 06:55:11 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Project\DarkModeAdmin\manageUsers.php on line 28
+[03-May-2025 06:55:11 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\Project\DarkModeAdmin\manageUsers.php on line 961

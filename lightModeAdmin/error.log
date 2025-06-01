@@ -1,0 +1,5 @@
+[02-May-2025 07:50:59 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`cit_care`.`counselor_blocked_times`, CONSTRAINT `counselor_blocked_times_ibfk_1` FOREIGN KEY (`counselor_id`) REFERENCES `admin_users` (`id`)) in C:\xampp\htdocs\Project\lightAdmin\manageUsers.php:40
+Stack trace:
+#0 C:\xampp\htdocs\Project\lightAdmin\manageUsers.php(40): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\Project\lightAdmin\manageUsers.php on line 40
